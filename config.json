@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsverify",
+        "uuid": 2580232,
+        "checksum": "r6ixxh"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
